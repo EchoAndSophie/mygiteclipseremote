@@ -14,7 +14,7 @@ public class BootController {
 	public String request() {
 		return "hello echo";
 	}
-	
+	//1212121212
 	@RequestMapping("/welcome")
 	public String welcome(Map<String, Object> map) {
 		
